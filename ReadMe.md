@@ -39,3 +39,5 @@ Content
 ## Support and contact details
 * You can contact me via email at :mwikiam@gmail.com
 
+## License
+This software is licenced under MIT licence.
